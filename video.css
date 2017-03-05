@@ -1,0 +1,26 @@
+header {
+    background-color: #2CC4E6;
+    color: #fff;
+    height: 160px;
+    padding: 10px 50px;
+}
+footer {
+  
+    background-color: #2CC4E6;
+    clear: both;
+    color: #fff;
+    padding: 50px 20px;
+}
+header img, header h1 {
+ display: inline;
+}
+nav {
+    background-color: #eee;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    height: 56px;
+}
+nav ul li {
+    float:left;
+    margin-right:25px
+}
